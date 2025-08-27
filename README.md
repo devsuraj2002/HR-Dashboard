@@ -1,5 +1,5 @@
 # HR-Dashboard
-# Presence Insights Dashboard
+# Presence Insights Dashboard for HR
 This dashboard provides a detailed analysis of employee attendance trends, covering Present %, Work From Home (WFH %), and Sick Leave (SL %) over the months of April 2022 – June 2022.This dashboard provides a detailed analysis of employee attendance trends, covering Present %, Work From Home (WFH %), and Sick Leave (SL %) over the months of April 2022 – June 2022.
 
 # Key Highlights
