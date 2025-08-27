@@ -12,7 +12,8 @@ This dashboard provides a detailed analysis of employee attendance trends, cover
 > WFH % had some spikes, reaching up to 23.44%, indicating flexible work policies during certain weeks.
 > SL % showed minor fluctuations, peaking at 5.43%, but remained low overall.
 
-# Day-wise AnalysisHighest Presence: Tuesday (93.03%) and Monday (93.21%).
+# Day-wise AnalysisHighest 
+> Presence %: Tuesday (93.03%) and Monday (93.21%).
 > Highest WFH %: Friday (13.01%) – showing a preference for remote work before weekends.
 > Highest SL %: Monday (1.62%) – possibly reflecting post-weekend health-related absences.
 
